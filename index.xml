@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Data Science Portfolio on Indrajit Ghosh</title>
+    <link>https://ighosh2.github.io/Indrajit_Portfolio/</link>
+    <description>Recent content in Data Science Portfolio on Indrajit Ghosh</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate>
+    <atom:link href="https://ighosh2.github.io/Indrajit_Portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>https://ighosh2.github.io/Indrajit_Portfolio/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://ighosh2.github.io/Indrajit_Portfolio/about/</guid>
+      <description>I&amp;rsquo;m Indrajit Ghosh, a Data Scientist with a background in Electronics Engineering and a Master&amp;rsquo;s in Computer Science from the Illinois Institute of Technology (Chicago), specializing in Artificial Intelligence. My professional journey includes roles in Data Engineering, Robotic Process Automation, and Full Stack Development, notably at Tata Consultancy Services where I led key ETL and RPA initiatives across India and Mexico. Skilled in Python, Java, SQL, and PySpark, I blend data science expertise with robust software development, honing my capabilities in Machine Learning and AI technologies.</description>
+    </item>
+    <item>
+      <title>Contact</title>
+      <link>https://ighosh2.github.io/Indrajit_Portfolio/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://ighosh2.github.io/Indrajit_Portfolio/contact/</guid>
+      <description>LinkedIn : www.linkedin.com/in/indrajit-ghosh/&#xA;Email me : ighosh2@hawk.iit.edu</description>
+    </item>
+    <item>
+      <title>Fortune’s Origin: Machine Learning Insights into Self-Made Versus Inherited Billionaire Wealth</title>
+      <link>https://ighosh2.github.io/Indrajit_Portfolio/post/project1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://ighosh2.github.io/Indrajit_Portfolio/post/project1/</guid>
+      <description>This project presents an innovative application of machine learning (ML) in the field of economic analysis, focusing on distinguishing between selfmade billionaires and those with inherited wealth. The central objective is to uncover and understand the patterns and dynamics behind global wealth distribution, particularly in the context of billionaires’ wealth origins. By leveraging Machine Learning robust pattern recognition and predictive analytics capabilities, the study classifies billionaires into two distinct categories: self-made and inherited fortunes.</description>
+    </item>
+  </channel>
+</rss>
